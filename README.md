@@ -1,6 +1,6 @@
 ### Olá eu sou o Cláudio Jin
 
-<div>
+<div display="flex" >
   <a href="https://github.com/claudio-jin">
   <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api?username=claudio-jin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudio-jin&layout=compact&langs_count=7&theme=dark"/>
